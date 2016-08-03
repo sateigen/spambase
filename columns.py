@@ -1,4 +1,4 @@
-columnsx = ['word_freq_make',
+columns = ['word_freq_make',
             'word_freq_address',
             'word_freq_all',
             'word_freq_3d',
