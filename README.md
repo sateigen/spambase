@@ -5,3 +5,11 @@ This project was designed to explore the use of simple Bayesian analysis, separa
 
 ### Special Instructions
 In order to obtain the correct versions of everything needed to run this program, you will have to ```pip install -r requirements.txt```. The data file you need  can be downloaded at https://archive.ics.uci.edu/ml/datasets/Spambase.
+
+### Files Included
+* [Jupyter Notebook](spambase.ipynb)
+  * Runs all Scikit-Learn tools to practice identifying spam
+* requirements.txt
+  * Includes required packages to run notebook
+* columns.py
+  * A list of all the .csv files columns
